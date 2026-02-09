@@ -44,7 +44,8 @@ const CONFIG = {
     loveMessages: {
         extreme: "OMGG",  // Shows when they go past 5000%
         high: "WOOOOW talagaa??",              // Shows when they go past 1000%
-        normal: "🥰"                           // Shows when they go past 100%
+        normal: "🥰",   
+        sad: "😭" // Shows when they go 0%
     },
 
     // Messages that appear after they say "Yes!"
